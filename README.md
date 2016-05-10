@@ -2,6 +2,8 @@
 
 # Apache htdigest authentication
 
+[![Join the chat at https://gitter.im/frapsoft/doc-apache-htdigest-authentication](https://badges.gitter.im/frapsoft/doc-apache-htdigest-authentication.svg)](https://gitter.im/frapsoft/doc-apache-htdigest-authentication?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Module `mod_auth_digest`
 
 Quick Introduction how to use the more secure [htdigest](http://httpd.apache.org/docs/current/mod/mod_auth_digest.html) authentication for the Apache webserver.  
